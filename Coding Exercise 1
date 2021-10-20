@@ -1,0 +1,20 @@
+package campusLife;
+
+public class CampusLife1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println ("Hello! My name is Aisyah and currently studying in IT courses.");
+		System.out.println ("I started my day with my morning routine which I take a bath and breakfirst.");
+		System.out.println ("I have a time before the class started. So, I use this time to do own exercise on coding.");
+		System.out.println ("After 30 minutes studying and doing coding exercise,");
+		System.out.println ("the class have started and I have to focus what the lecturer is explaining about the subject. Awesome!");
+		System.out.println ("After finished the class, take a break for lunch and take a nap before Zuhur.");
+		System.out.println ("Wake up and continuing for next class till evening.");
+		System.out.println ("Class finished! I want to do my own activity.");
+		System.out.println ("Hang out with my friends and have a dinner.");
+		System.out.println ("At night, do some homework, continue doing the coding exercise for about two hours.");
+		
+	}
+
+}
